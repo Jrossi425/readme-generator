@@ -8,7 +8,7 @@ N/A
 
 ## Usage
 by answering the questions asked in the terminal and creating a professional README.
-![image](https://user-images.githubusercontent.com/123151991/231025462-05dc2f9f-6e82-45c7-947d-22aaf210993b.png)
+![image](https://user-images.githubusercontent.com/123151991/231025657-8a86bd6f-7d1f-4090-9161-505947d124c9.png)
 ![image](https://user-images.githubusercontent.com/123151991/231025495-5c44677e-e4bd-4873-9d7d-a376ef4aac48.png)
 
 ## License
