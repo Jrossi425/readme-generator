@@ -1,7 +1,7 @@
-# README_GENERATOR https://img.shields.io/badge/lisence-MIT-red
+# Readme Generator https://img.shields.io/badge/lisence-MIT-red
   
 ## Description
-an app that creates a readme
+an app that creates a readme file
 
 ## Table of Contents
 1. [Installation](#installation)
@@ -12,10 +12,10 @@ an app that creates a readme
 6. [Questions](#questions)
 
 ## Installation
-n/a
+N/A
 
 ## Usage
-by answering the questions
+by answering the questions asked in the terminal
 
 ## License
 This project uses MIT
@@ -24,7 +24,7 @@ This project uses MIT
 Justin
 
 ## Tests
-none
+no
 
 ## Questions
 https://github.com/Jrossi425
