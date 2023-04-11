@@ -7,7 +7,8 @@ Week 9 challenge to create a readme generator using node.js and inquirer. The us
 N/A
 
 ## Usage
-by answering the questions asked in the terminal and creating a professional README.
+by answering the questions asked in the terminal and creating a professional README. 
+https://drive.google.com/file/d/11qeNwdzNOIoczJ_3tRdo7-JT4s-ylCs6/view
 ![image](https://user-images.githubusercontent.com/123151991/231025657-8a86bd6f-7d1f-4090-9161-505947d124c9.png)
 ![image](https://user-images.githubusercontent.com/123151991/231025495-5c44677e-e4bd-4873-9d7d-a376ef4aac48.png)
 
